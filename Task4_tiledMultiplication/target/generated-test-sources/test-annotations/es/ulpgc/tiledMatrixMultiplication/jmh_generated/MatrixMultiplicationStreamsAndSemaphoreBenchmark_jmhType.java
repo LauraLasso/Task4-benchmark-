@@ -1,0 +1,4 @@
+package es.ulpgc.tiledMatrixMultiplication.jmh_generated;
+public class MatrixMultiplicationStreamsAndSemaphoreBenchmark_jmhType extends MatrixMultiplicationStreamsAndSemaphoreBenchmark_jmhType_B3 {
+}
+
